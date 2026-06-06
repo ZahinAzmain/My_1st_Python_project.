@@ -3,7 +3,6 @@ joy= False
 hidden_word="zahin azmain"
 guess=""
     
-
 while joy== False:
     print("")
     print("  -----New game-----")
